@@ -1,4 +1,4 @@
-# ITAI1378 Course Portfolio – Derrick Gibbs
+# ITAI1378 Course Portfolio – Derrick K. Gibbs-McGlaston
 
 Welcome to my portfolio for the ITAI1378 course: *Applications of Artificial Intelligence*.
 
