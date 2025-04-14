@@ -15,7 +15,7 @@ This repository contains all my work, reflections, labs, and final project submi
 - **Module 04: Object Detection**  
   [A04 Video](./Module_04_ObjectDetection/A04_DerrickGibbsMcGlaston_ITAI1378.mp4)  
   [A09 Cheat Sheet](./Module_04_ObjectDetection/A09_DerrickGibbs-McGlaston_ITAI_1378.docx)
-
+  [🎥 Watch A04 Object Detection Video (Google Drive)]  https://drive.google.com/file/d/1emyiN7Dnxa6V1mR7XIwOeNIMsF1J6n5E/view?usp=sharing
 - **Module 05: Image Classification (SVM)**  
   [L05 Reflective Journal](./Module_05_SVM_ImageClassification/L05_DerrickGibbsMcGlaston_ITAI_1378.docx)
 
