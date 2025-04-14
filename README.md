@@ -1,10 +1,10 @@
-# ITAI1378 Course Portfolio – Derrick K. Gibbs-McGlaston
+ ITAI1378 Course Portfolio – Derrick K. Gibbs-McGlaston
 
 Welcome to my portfolio for the ITAI1378 course: *Applications of Artificial Intelligence*.
 
 This repository contains all my work, reflections, labs, and final project submissions from the Spring 2024 semester.
 
-## 📁 Modules
+ 📁 Modules
 
 - **Module 01: History of Computer Vision**  
   [A01_DerrickGIbbs_ITAI1378.docx](./Module_01_ComputerVisionHistory/A01_DerrickGIbbs_ITAI1378.docx)
@@ -25,13 +25,13 @@ This repository contains all my work, reflections, labs, and final project submi
 - **Module 07: Git and Jupyter**  
   [GitHub + Jupyter Reflection](./Module_07_GitAndJupyter/L03_DerrickGibbsMcGlaston_ITAI1378.docx)
 
-## 🧠 Final Project – Flappy Bird RL Agent
+  Capstone Project – Flappy Bird RL Agent
 
 - [Capstone Report](./Final_Project_FlappyBird/CP_Derrick_K_GibbsMcGlaston_ITAI1378.docx)  
 - [Capstone Slides](./Final_Project_FlappyBird/CP_Derrick_K_GibbsMcGlaston_ITAI1378.pptx)  
 - [Training Code](./Final_Project_FlappyBird/flappy_bird_agent.ipynb)
 
-## ✅ Status
+ ✅ Status
 
 All assignments submitted ✔️  
 All modules complete ✔️  
